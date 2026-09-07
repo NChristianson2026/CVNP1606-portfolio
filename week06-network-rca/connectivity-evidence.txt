@@ -1,0 +1,50 @@
+﻿
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : cvnp1606-lab
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet0:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) 82574L Gigabit Network Connection
+   Physical Address. . . . . . . . . : 00-0C-29-52-4D-ED
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::c299:1dfb:b93f:d648%4(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.99.99.99(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 100666409
+   DHCPv6 Client DUID. . . . . . . . : 00-01-01-00-32-2F-67-55-00-0C-29-52-4D-ED
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Pinging 8.8.8.8 with 32 bytes of data:
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+Server:  UnKnown
+Address:  fec0:0:0:ffff::1
+
+
+
+ComputerName     : 8.8.8.8
+RemoteAddress    : 8.8.8.8
+RemotePort       : 80
+InterfaceAlias   : 
+SourceAddress    : 
+PingSucceeded    : False
+TcpTestSucceeded : False
+
+
+
