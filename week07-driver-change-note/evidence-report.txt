@@ -1,0 +1,29 @@
+﻿=== CVNP1606-W07 Evidence Report ===
+Generated : 2026-09-06 22:12:16
+Host      : CVNP1606-LAB
+
+[PNP DEVICES - NON-OK STATUS]
+  Status: Unknown      Class: HIDClass             Name: USB Input Device
+  Status: Unknown      Class: Sensor               Name: HID Sensor Collection V2
+  Status: Unknown      Class: HIDClass             Name: HID-compliant vendor-defined device
+  Status: Unknown      Class: Monitor              Name: Generic Monitor
+  Status: Unknown      Class: HIDClass             Name: USB Input Device
+  Status: Unknown      Class: Sensor               Name: Simple Device Orientation Sensor
+  Status: Unknown      Class: HIDClass             Name: HID-compliant touch screen
+  Status: Unknown      Class: Volume               Name: Volume
+
+[PNP DEVICES - ALL (summary by status)]
+  OK               : 199 device(s)
+  Unknown          : 8 device(s)
+
+[RECENTLY MODIFIED DRIVERS (last 30 days)]
+  No drivers modified in last 30 days.
+
+[REQUIRED FILES]
+  hardware-inventory.txt : FOUND (3596 bytes)
+  change-note.md : FOUND (1878 bytes)
+  rollback-plan.md : FOUND (2805 bytes)
+  README.md : FOUND (2179 bytes)
+
+Commit this file (evidence-report.txt) to your GitHub repo under week07-driver-change-note/.
+
