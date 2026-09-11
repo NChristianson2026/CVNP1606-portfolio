@@ -1,0 +1,30 @@
+﻿=== CVNP1606-W01 Evidence Report ===
+Generated : 2026-09-11 10:17:23
+Host      : CVNP1606-LAB
+
+[SYSTEM]
+  Hostname   : CVNP1606-LAB
+  OS         : Windows 10 Pro
+  Version    : 10.0.26200
+  Firmware   : Uefi
+
+[LOCAL ACCOUNTS]
+  ACME                     Enabled: True
+  AcmeSeasonal01           Enabled: True
+  Administrator            Enabled: False
+  DefaultAccount           Enabled: False
+  Guest                    Enabled: False
+  WDAGUtilityAccount       Enabled: False
+
+[ADMINISTRATORS GROUP]
+  cvnp1606-lab\ACME (Local)
+  cvnp1606-lab\Administrator (Local)
+
+[TPM]
+  TpmPresent   : True
+  TpmEnabled   : True
+
+[REQUIRED FILES]
+  inventory.txt : NOT FOUND
+
+Commit this file (evidence-report.txt) to your GitHub repo under week01-build-sheet/.
